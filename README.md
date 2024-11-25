@@ -7,3 +7,5 @@ Pasos realizados por ahora:
 3. Creada estructura de carpetas y archivos.
 4. Configurado .gitignore.
 5. Creada esta rama para trabajar en paralelo.
+
+Vuelvo a modificar el README para hacer el segundo commit
